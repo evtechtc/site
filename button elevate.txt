@@ -1,0 +1,3 @@
+style="background-color: rgb(247, 183, 7);"
+
+    background-image: url("banner.png");
